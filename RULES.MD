@@ -16,4 +16,4 @@
 
 7. Don't **Share** your personal information's such as phone number, email id in the group.
 
-8. Don't send private **messages** to group memb
+8. Don't send private **messages** to group members.
